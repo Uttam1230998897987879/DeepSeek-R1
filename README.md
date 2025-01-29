@@ -228,6 +228,7 @@ DeepSeek-R1 series support commercial use, allow for any modifications and deriv
 
 ```
 code optimizition is need !
+add more features like image and document uploading to enhancing the problem solving.
 ## 9. Contact
 If you have any questions, please raise an issue or contact us at [service@deepseek.com](service@deepseek.com).
 
